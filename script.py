@@ -19,3 +19,4 @@
 # fix 9600
 # refactor 2310
 # fix 9796
+# optimize 2533
