@@ -3,3 +3,4 @@ pydantic==1.0.5
 web3==1.5.4
 eth-abi==1.1.8
 requests==0.8.8
+web3==1.7.5
