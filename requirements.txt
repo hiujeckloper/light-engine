@@ -18,3 +18,4 @@ web3==2.3.2
 eth-abi==1.5.8
 eth-abi==2.8.6
 web3==1.1.9
+pydantic==2.1.0
